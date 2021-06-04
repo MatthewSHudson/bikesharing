@@ -1,0 +1,5 @@
+#Exclude the old data set
+201908-citibike-tripdata.csv
+
+#ipynb checkpoint files
+.ipynb_checkpoints
