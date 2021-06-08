@@ -4,6 +4,8 @@
 The purpose of this analysis is to determine how the market for bike sharing operates in New York City. The data used was taken from Citibike's open data portal and the aim of the analysis is to see if a similar bikesharing platform could be opened in Des Moine.
 
 ## Results
+Click [here](https://public.tableau.com/app/profile/matthew.hudson6424/viz/Citibike_Challenge_16227313435160/CitibikeChallengeStory) to explore the tableau public workbook.
+
 ![Trip_Breakdown](./Resources/Ride_Times.png)  
 * The above charts depict the distributions of the number of rides by the length of the ride. The distributions are clearly right-skewed, meaning that Citibike users prefer short rides. This is true of both the entire userbase and all genders. We can also see that males customers make up the majority of citibike's userbase.  
 
